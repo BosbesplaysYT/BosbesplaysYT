@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a young developer hailing from the **Netherlan
 - **Collaboration**: I’m developing projects solo for now, but I’m open to collaboration opportunities in the future!
 
 ## 📬 Get in Touch
-- **Contact**: You don't lol :)
+- **Contact**: You dont :-)
 
 ## 🏳️‍🌈 Pronouns
 - **He/Him**
